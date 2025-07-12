@@ -13,7 +13,7 @@ Tidak, sudah Izin kok
 
 # Cara Install?
 - Android
-Buka Ekstrak File di
+Ekstrak File di
 Android/data/in.celest.xash3d.csbtem/files/
 - Windows
 Langsung aja bos di lokasi File CSMOE mu
